@@ -13,4 +13,4 @@ for (int i = 0; i < input.Length; i++)
 
 string[] result = new string[count];
 Array.Copy(output, result, count);
-Console.WriteLine(result);
+Console.WriteLine(result); #комментарий для добавления коммитов =) 
