@@ -1,0 +1,15 @@
+D:\J\ВижуальСтудио\проекты\Itog\Itog\bin\Debug\net6.0\Itog.exe
+D:\J\ВижуальСтудио\проекты\Itog\Itog\bin\Debug\net6.0\Itog.deps.json
+D:\J\ВижуальСтудио\проекты\Itog\Itog\bin\Debug\net6.0\Itog.runtimeconfig.json
+D:\J\ВижуальСтудио\проекты\Itog\Itog\bin\Debug\net6.0\Itog.dll
+D:\J\ВижуальСтудио\проекты\Itog\Itog\bin\Debug\net6.0\Itog.pdb
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.csproj.AssemblyReference.cache
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.GeneratedMSBuildEditorConfig.editorconfig
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.AssemblyInfoInputs.cache
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.AssemblyInfo.cs
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.csproj.CoreCompileInputs.cache
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.dll
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\refint\Itog.dll
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.pdb
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\Itog.genruntimeconfig.cache
+D:\J\ВижуальСтудио\проекты\Itog\Itog\obj\Debug\net6.0\ref\Itog.dll
